@@ -15,3 +15,7 @@ of facilities, and I choose to implement the most classical
 facility into my project. I built two roller coasters for my
 project. This VR amusement park can let the user select
 which roller coasters they are going to play.
+
+## Reference
+Car 3D Model: (”pui pui molcar” (https://skfb.ly/6ZRCM) by klairbobos is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).  
+Cloud 3D Model: (”Cartoon Cloud” (https://skfb.ly/6AuOS) by RunemarkStudio is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).  

@@ -27,7 +27,7 @@ which roller coasters they are going to play.
 
 ## Design and Implementation
 The below image is the architecture of my project  
-![image]([https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.png](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/4.jpg))
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/4.jpg)
 
 
 ## Reference

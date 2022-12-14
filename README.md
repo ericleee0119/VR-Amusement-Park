@@ -59,6 +59,21 @@ an acceleration that can be negative or positive. By this
 way, we could control the speed well. Figure 3 mentioned
 the possible situations we may meet and provided my
 current solutions.  
+  
+# Demonstration  
+The below image is the scene of our amusement park. The
+right side and the left side each contain a roller coaster. Users can
+select the roller coaster they are going to play.  
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/7.jpg)  
+  
+The below image is the scene of the PC user while they play
+on the roller coaster.  
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/8.jpg)  
+  
+The below image is the scene of the Google Cardboard user
+while they play on the roller coaster.  
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/9.jpg)   
+  
 
 ## Reference
 Car 3D Model: (”pui pui molcar” (https://skfb.ly/6ZRCM) by klairbobos is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).  

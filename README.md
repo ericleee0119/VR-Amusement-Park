@@ -3,6 +3,15 @@
 ## Demo Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8L9hfdfyGIg/0.jpg)](https://www.youtube.com/watch?v=8L9hfdfyGIg)  
 
+## Technical skills and Keywords  
+1. Unity3D  
+2. C#  
+3. AR/VR  
+4. VR Roller Coaster  
+5. Google Cardboard  
+6. 3D Model  
+...  
+
 ## Introduction
 Most people enjoy visiting the amusement park. There
 are several amusement parks in the world and each amusement

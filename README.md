@@ -78,6 +78,8 @@ on the roller coaster.
 The below image is the scene of the Google Cardboard user
 while they play on the roller coaster.  
 ![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/10.png)   
+
+I built all the scene and environment by myself, except the room which is the default environment from Google Cardboard. And the car and the cloud is the 3D model from SketchFab
   
 
 ## Reference

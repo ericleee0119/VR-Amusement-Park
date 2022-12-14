@@ -41,6 +41,24 @@ the MoveCar.cs is the code indicates how the car moves. It also
 provided the algorithm to adjust the Velocity
 ![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/5.jpg)
 
+There are some math and physics problems we may
+need to take care of in this project. especially the Velocity.
+Velocity includes acceleration and minimum Velocity and
+Maximum Velocity. Acceleration tells us when the user sits
+on the Roller Coaster, and how much velocity it accelerates
+per second. And we also need to calculate the Maximum
+velocity because it is impossible to let the acceleration keep
+updating to infinite. The Roller Coaster may rise up and fall
+down depending on the design of the tracks. And it is also possible that the tracks may lead the car to go up side down.
+The velocity of each situation is different, therefore, this is
+another thing we may need to think about. We set a default
+acceleration value, and depending on the current rail angle,
+we let this default value crossed by the sin(angle) to get
+anew acceleration. With sin implementation, we could get
+an acceleration that can be negative or positive. By this
+way, we could control the speed well. Figure 3 mentioned
+the possible situations we may meet and provided my
+current solutions.  
 
 ## Reference
 Car 3D Model: (”pui pui molcar” (https://skfb.ly/6ZRCM) by klairbobos is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).  

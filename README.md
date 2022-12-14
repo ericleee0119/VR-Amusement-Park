@@ -77,7 +77,7 @@ on the roller coaster.
   
 The below image is the scene of the Google Cardboard user
 while they play on the roller coaster.  
-![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/10.jpg)   
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/10.png)   
   
 
 ## Reference

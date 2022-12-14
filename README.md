@@ -31,7 +31,10 @@ and the light in our Unity world. And each facility has their own
 objects, such as cars, buildings, etc. The independent objects can
 help us to design the different features at each facility  
 ![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/4.jpg)  
-
+  
+    
+    
+    
 The below image shows that we have two main code file. CameraPointer.
 cs indicates the camera and the action it should do. And
 the MoveCar.cs is the code indicates how the car moves. It also

@@ -61,6 +61,11 @@ the possible situations we may meet and provided my
 current solutions.  
   
 # Demonstration  
+The below image is the user experience flow. When the user
+starts our project, this flow can indicate the all steps they may
+meet.  
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/9.jpg)   
+
 The below image is the scene of our amusement park. The
 right side and the left side each contain a roller coaster. Users can
 select the roller coaster they are going to play.  
@@ -72,7 +77,7 @@ on the roller coaster.
   
 The below image is the scene of the Google Cardboard user
 while they play on the roller coaster.  
-![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/9.jpg)   
+![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/10.jpg)   
   
 
 ## Reference

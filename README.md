@@ -26,7 +26,10 @@ project. This VR amusement park can let the user select
 which roller coasters they are going to play.
 
 ## Design and Implementation
-The below image is the architecture of my project  
+The below image is the architecture of my project, We have two facilities, they share the sun, the cloud,
+and the light in our Unity world. And each facility has their own
+objects, such as cars, buildings, etc. The independent objects can
+help us to design the different features at each facility  
 ![image](https://github.com/ericleee0119/VR-Amusement-Park/blob/main/img/4.jpg)
 
 
